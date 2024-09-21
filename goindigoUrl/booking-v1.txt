@@ -1,0 +1,10 @@
+https://www.goindigo.in/booking-v1.html
+https://www.goindigo.in/booking-v1/flight-select.html
+https://www.goindigo.in/booking-v1/passenger-edit.html
+https://www.goindigo.in/booking-v1/seat-select.html
+https://www.goindigo.in/booking-v1/passenger-edit-modification.html
+https://www.goindigo.in/booking-v1/flight-select-modification.html
+https://www.goindigo.in/booking-v1/view.html
+https://www.goindigo.in/booking-v1/change-flight.html
+https://www.goindigo.in/booking-v1/cancel-flight.html
+https://www.goindigo.in/booking-v1/print.html

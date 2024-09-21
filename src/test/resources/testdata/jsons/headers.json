@@ -1,0 +1,36 @@
+{
+	"Book": {
+		"Flights": "Flight Ticket Booking, Cheap Flights at Lowest Prices - IndiGo",
+		"6E Holidays": "Holiday Packages, Indian Holidays, Honeymoon Packages, India Tourism, Holidays India, Vacation Package : MakeMyTrip",
+		"Charter Services": "IndiGo Charters Services - Book Passenger & CarGo Charters",
+		"Group Bookings": "Create Booking"
+
+	},
+	"Check-in": {
+		"Check-in": "Web check-in to skip the long airport queues | IndiGo"
+	},
+	"Manage": {
+		"Edit Booking": "Manage Booking: Edit, cancel & reschedule flight - IndiGo",
+		"Change Flight": "Errors",
+		"Baggage Tag": "Check-in baggage & self-print your baggage tags - IndiGo",
+		"Plan B": "Plan B: flight is cancelled or rescheduled? Worry not - IndiGo"
+	},
+	"6E Reward": {
+		"6E Rewards": "6E Rewards - IndiGo"
+	},
+	"Info": {
+		"Flight status": "Check Flight Status, Flight Tracker, Live Arrival and Departure time | IndiGo",
+		"Cargo Services": "IndiGo CarGo Services: Book CarGo & Track Shipment Delivery",
+		"Fees & Charges": "IndiGo Flights Fees and Charges, Cheap Flight Booking | IndiGo",
+		"Destinations": "India's Top Tourist Attractions, Things to do & Places to See in India | IndiGo",
+		"Seat/Aircraft information": "Seat map and aircraft information | IndiGo",
+		"COVID-19 queries": "",
+		"FAQs": "IndiGo FAQs: Flights, Tickets, Baggage & Travel Information",
+		"Additional Info": "IndiGo Information & Medical Forms, Visa Info, Travel FAQs | IndiGo",
+		"Contact Us": "Contact Us, Low Cost Airline | IndiGo"
+	},
+	"Login": {
+		"Partner Login": "Sign in to find your best deals and start booking | IndiGo",
+		"Corp Connect Login": "Sign in to find your best deals and start booking | IndiGo"
+	}
+}

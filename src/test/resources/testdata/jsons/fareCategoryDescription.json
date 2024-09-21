@@ -1,0 +1,46 @@
+{
+  "SAVER": {
+    "Fare Description": "Best deal from our Regular, Return, Family & Online Group fares (depending on travel conditions).",
+    "6E Tiffin(Snacks/Meal)": "Chargeable",
+    "Standard seat": "Chargeable",
+    "Date Changes Fee Per Passenger Per Sector": "0-3 days** : Up to INR 3250\n&4 days** &above : Up to INR 2750",
+    "Cancellation Charge Per Passenger Per Sector": "0-3 days** : Up to INR 3500\n&4 days** &above : Up to INR 3000",
+    "XL seat": "No discount",
+    "Check-in Baggage": "15KG",
+    "Hand Baggage": "One hand bag up to 7 kgs and 115 cms (L+W+H), shall be allowed per customer."
+  },
+
+  "FLEXI": {
+    "Fare Description": "Get a complimentary snack combo, seat and make unlimited changes to travel dates at no extra cost. Fare difference may apply.",
+    "6E Tiffin(Snacks/Meal)": "Included",
+    "Standard seat": "Included",
+    "Date Changes Fee Per Passenger Per Sector": "0-3 days** : INR 3250*\n4 days** &above : NIL*",
+    "Cancellation Charge Per Passenger Per Sector": "0-3 days** : INR 3500*\n4 days** &above : INR 500*",
+    "XL seat": "Upto 50% discount on Retail Rate",
+    "Check-in Baggage": "15KG",
+    "Hand Baggage": "One hand bag up to 7 kgs and 115 cms (L+W+H), shall be allowed per customer."
+
+  },
+  "CORPCONNECT": {
+    "Fare Description": "Avail zero convenience fee, extra 10 kg baggage allowance, free seat including XL seats, free snack combo along with free express check-in*, free anytime boarding before the gate closes * & Delayed and Lost Baggage Protection service. Also enjoy INR 500 till 3 days before departure and a fee of No Fees after that. Reduced cancellation fee of INR 500 also offered. *T&C apply",
+    "6E Tiffin(Snacks/Meal)": "Included",
+    "Standard seat": "Included",
+    "Date Changes Fee Per Passenger Per Sector": "Dom:  No Fees 4 days and beyond of flight dep & 0-3 days within flight dep INR 500. INT: 4 days and beyond of flight dep is INR 500 &  0-3 days within flight dep INR 900.",
+    "Cancellation Charge Per Passenger Per Sector": "DOM: INR 500 upto 2 hours of flight departure. INT: INR 1500 upto 4 hours of flight departure.",
+    "XL seat": "Free",
+    "Check-in Baggage": "15KG",
+    "Hand Baggage": "One hand bag up to 7 kgs and 115 cms (L+W+H), shall be allowed per customer."
+
+  },
+  "SUPER6E": {
+    "Fare Description": "Avail zero convenience fee, extra 10 kg baggage allowance, free seat including XL seats, free snack combo along with free express check-in*, free anytime boarding before the gate closes * & Delayed and Lost Baggage Protection service. Also enjoy INR 500 till 3 days before departure and a fee of No Fees after that. Reduced cancellation fee of INR 500 also offered. *T&C apply",
+    "6E Tiffin(Snacks/Meal)": "Included",
+    "Standard seat": "Included",
+    "Date Changes Fee Per Passenger Per Sector": "Dom:  No Fees 4 days and beyond of flight dep & 0-3 days within flight dep INR 500. INT: 4 days and beyond of flight dep is INR 500 &  0-3 days within flight dep INR 900.",
+    "Cancellation Charge Per Passenger Per Sector": "DOM: INR 500 upto 2 hours of flight departure. INT: INR 1500 upto 4 hours of flight departure.",
+    "XL seat": "Free",
+    "Check-in Baggage": "25KG",
+    "Hand Baggage": "One hand bag up to 7 kgs and 115 cms (L+W+H), shall be allowed per customer."
+
+  }
+}

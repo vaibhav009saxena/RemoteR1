@@ -1,0 +1,12 @@
+https://www.goindigo.in/booking-bak.html
+https://www.goindigo.in/booking-bak/flight-select.html
+https://www.goindigo.in/booking-bak/passenger-edit.html
+https://www.goindigo.in/booking-bak/seat-select.html
+https://www.goindigo.in/booking-bak/passenger-edit-modification.html
+https://www.goindigo.in/booking-bak/flight-select-modification.html
+https://www.goindigo.in/booking-bak/view.html
+https://www.goindigo.in/booking-bak/change-flight.html
+https://www.goindigo.in/booking-bak/cancel-flight.html
+https://www.goindigo.in/booking-bak/print.html
+https://www.goindigo.in/booking-bak/seat-select-modification.html
+https://www.goindigo.in/booking-bak/baggage-new-sectors.html

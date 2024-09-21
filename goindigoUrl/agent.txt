@@ -1,0 +1,7 @@
+https://www.goindigo.in/agent.html
+https://www.goindigo.in/agent/agent-profile.html
+https://www.goindigo.in/agent/edit-profile.html
+https://www.goindigo.in/agent/reset-password-confirmation.html
+https://www.goindigo.in/agent/view-profile.html
+https://www.goindigo.in/agent-chat.html
+https://www.goindigo.in/agentscashuploadpolicy.html

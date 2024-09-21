@@ -1,0 +1,3 @@
+https://www.goindigo.in/errors.html
+https://www.goindigo.in/errors/404.html
+https://www.goindigo.in/errors/500.html

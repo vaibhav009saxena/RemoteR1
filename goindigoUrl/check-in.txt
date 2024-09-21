@@ -1,0 +1,10 @@
+https://www.goindigo.in/check-in.html
+https://www.goindigo.in/check-in/view.html
+https://www.goindigo.in/check-in/print.html
+https://www.goindigo.in/check-in/print-boarding-pass.html
+https://www.goindigo.in/check-in/checkin-dangerous-goods.html
+https://www.goindigo.in/check-in/addbagtag.html
+https://www.goindigo.in/check-in/passport-visa-details.html
+https://www.goindigo.in/check-in/print-international.html
+https://www.goindigo.in/check-in/print-int-boarding-pass.html
+https://www.goindigo.in/check-in/baggage-declaration.html

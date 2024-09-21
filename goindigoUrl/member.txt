@@ -1,0 +1,12 @@
+https://www.goindigo.in/member.html
+https://www.goindigo.in/member/reset-password.html
+https://www.goindigo.in/member/reset-password-using-email.html
+https://www.goindigo.in/member/edit-profile.html
+https://www.goindigo.in/member/registration.html
+https://www.goindigo.in/member/reset-password-confirmation.html
+https://www.goindigo.in/member/view-profile.html
+https://www.goindigo.in/member/member-landing.html
+https://www.goindigo.in/member/my-booking.html
+https://www.goindigo.in/member/userid-login.html
+https://www.goindigo.in/member/promotions.html
+https://www.goindigo.in/member/member-profile.html
