@@ -3,7 +3,9 @@
 
 Feature: Addons Page Validation
   As a user I want to validate the Addons Page
-  So that it works as expected during booking journey
+  So that it works as expected during booking journey  
+  
+  //System QA - Vaiobhav -1
 
   @B2C-ADDONS-V01
   Scenario Outline: Verify Back to Search Results
@@ -14,7 +16,7 @@ Feature: Addons Page Validation
     And selects the first flight from the search result with fare type "<fare_type>"
     And skip flexi upgrade and continue booking the flight by filling in mobile number "<mobile_number>" and mail id "<mail_id>"
     And user selects the prefix as below for passengers
-      | Mr |
+      | Mr |    //System QA - Vaiobhav -2
     And user enters the firstname and lastname as belows
       | Adolph Blaine Charles Davidson   | William Xerxes Yancy Zeus Barnes |
     Then on clicking continue to Addons user should be able to move onto addons section
@@ -23,6 +25,9 @@ Feature: Addons Page Validation
       | adult_count | origin | destination | date        | fare_type | mobile_number | mail_id           | addons |trip_type       |senior_citizen_count|children_count|infant_count|
       | 1           | MUM    | DEL         | 21 Jul 2023 | Saver     | 9900990090    | johndoe@gmail.com | Lounge | One Way        |              0     |          0   |     0      |
 
+  
+    //System QA - Vaiobhav -3
+  
   @B2C-ADDONS-V02
   Scenario Outline: Verify Change Passenger Details
     Given user opens the Indigo website
@@ -43,6 +48,12 @@ Feature: Addons Page Validation
       | adult_count | origin | destination | date        | fare_type | mobile_number | mail_id           | addons |trip_type       |senior_citizen_count|children_count|infant_count|
       | 2           | MUM    | DEL         | 21 Jul 2023 | Saver     | 9900990090    | johndoe@gmail.com | Lounge | One Way        |              0     |          0   |     0      |
 
+  
+  
+  
+  
+    //System QA - Vaiobhav -4
+  
   @B2C-ADDONS-V03
   Scenario Outline: Verify left panel of 6E Add-ons page
     Given user opens the Indigo website
@@ -136,6 +147,13 @@ Feature: Addons Page Validation
     Examples:
       | adult_count | origin | destination | date        | fare_type | mobile_number | mail_id           | addons |trip_type       |senior_citizen_count|children_count|infant_count|
       | 1           | MUM    | DEL         | 21 Jul 2023 | Saver     | 9900990090    | johndoe@gmail.com | Lounge | One Way        |              0     |          0   |     0      |
+
+
+
+
+  //System QA - Vaiobhav -5
+
+
 
   @B2C-ADDONS-V08
   Scenario Outline: Verify header name and description for Excess Baggage
